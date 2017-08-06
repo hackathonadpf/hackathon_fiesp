@@ -1,0 +1,4 @@
+tornado==4.4.2
+rainbow_logging_handler==2.2.2
+requests==2.13.0
+rasa_nlu
