@@ -1,0 +1,21 @@
+{
+    "regex_featurizer": null,
+    "training_data": "training_data.json",
+    "entity_extractor_mitie": null,
+    "pipeline": [
+        "nlp_mitie",
+        "tokenizer_mitie",
+        "ner_mitie",
+        "ner_synonyms",
+        "intent_entity_featurizer_regex",
+        "intent_featurizer_mitie",
+        "intent_classifier_sklearn"
+    ],
+    "language": "ptbr",
+    "mitie_feature_extractor_fingerprint": 12776837117594539165,
+    "rasa_nlu_version": "0.10.0a0",
+    "intent_classifier_sklearn": "intent_classifier.pkl",
+    "trained_at": "20170731-170251",
+    "entity_synonyms": null,
+    "mitie_file": "/home/maicon/Documentos/HACKATON/utils/total_word_feature_extractor.dat"
+}

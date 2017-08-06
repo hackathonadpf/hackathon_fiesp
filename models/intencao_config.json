@@ -1,0 +1,9 @@
+{
+    "data": "/home/maicon/Documentos/HACKATON/models/intencao_data.json",
+    "path": "/home/maicon/Documentos/HACKATON/models",
+    "mitie_file": "/home/maicon/Documentos/HACKATON/utils/total_word_feature_extractor.dat",
+    "log_level": "DEBUG",
+    "num_threads": 8,
+    "name": "INTENCAO",
+    "pipeline": "mitie_sklearn"
+}
