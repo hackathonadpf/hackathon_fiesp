@@ -33,7 +33,7 @@ dropbox
 
 ```sh
 $ pip install -r requeriments.txt
-$ python main.py
+$ python app.py
 ```
 
 ### Developers
